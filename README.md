@@ -1,4 +1,3 @@
-# XXX Porn App
+# My Little Pony App
 
-## by Caleb Cheatham
 ## by Jason Anderson 
